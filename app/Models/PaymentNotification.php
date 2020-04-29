@@ -4,14 +4,14 @@
 namespace App\Models;
 
 
-class CheckoutPayment
+class PaymentNotification
 {
     protected  $DBGroup = 'default';
-    protected $table  = 'checkout_payment';
+    protected $table  = 'notifications';
     protected $primaryKey = 'c_id';
     protected $returnType = 'array';
     protected $useTimestamps = true;
-    protected $allowedFields=['client_id','order_id','card_name','card_number','expire_date','cvv_code','card_type','c_date','c_update'];
+    protected $allowedFields=['client_number','order_id', 'total_amount', 'currency'];
     protected $createdField = 'c_date';
     protected $updatedField = 'c_update';
 }

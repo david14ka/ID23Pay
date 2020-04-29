@@ -2,12 +2,14 @@
 namespace App\Controllers;
 use App\Controllers\BaseController;
 use App\Models\ApiModel;
+use http\Client;
 
 class Api extends BaseController
 {
     public $clientId;
     public $clientApiKey;
     public $response;
+    public $client;
 
     public function index(){
 
@@ -15,6 +17,8 @@ class Api extends BaseController
         {
             //echo $this->clientApiKey;
             $this->auth();
+            //echo $this->client->
+            //var_dump($this->client);
         }
 
     }
@@ -23,12 +27,16 @@ class Api extends BaseController
 
         $apiModel = new ApiModel();
 
-        $result = $apiModel
-            ->where('client_api_key','key03')
+        $result = $apiModel->find(1);
+            /*
+            ->where('client_api_key','key003')
             ->where('client_id','id003')
-            ->first();
+            ->first();*/
 
-        var_dump($result);
+        //$this->client = new Client($result);
+        echo $result->client_id;
+
+        //return $this->client;
     }
 
 

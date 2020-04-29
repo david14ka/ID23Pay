@@ -39,6 +39,16 @@ class Students extends Controller
 
     public function register()
     {
+
+        $std = new MyStudents();
+        try {
+            $std->save([
+                's_name' => $this->request->getVar('name'),
+                's_subject' => $this->request->getVar('subject')
+            ]);
+        } catch (\ReflectionException $e) {
+        }
+
         echo 'Student registered!';
     }
 }
