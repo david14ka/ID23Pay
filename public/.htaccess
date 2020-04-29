@@ -4,7 +4,7 @@ Options All -Indexes
 # ----------------------------------------------------------------------
 # Rewrite engine
 # ----------------------------------------------------------------------
-
+SetEnv CI_ENVIRONMENT development
 # Turning on the rewrite engine is necessary for the following rules and features.
 # FollowSymLinks must be enabled for this to work.
 <IfModule mod_rewrite.c>

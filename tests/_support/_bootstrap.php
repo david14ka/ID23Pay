@@ -5,8 +5,8 @@ ini_set('display_errors', '1');
 ini_set('display_startup_errors', '1');
 
 // Make sure it recognizes that we're testing.
-$_SERVER['CI_ENVIRONMENT'] = 'testing';
-define('ENVIRONMENT', 'testing');
+$_SERVER['CI_ENVIRONMENT'] = 'development';
+define('ENVIRONMENT', 'development');
 
 // Load our paths config file
 require __DIR__ . '/../../app/Config/Paths.php';
