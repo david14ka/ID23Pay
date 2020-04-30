@@ -1,0 +1,90 @@
+CRITICAL - 2020-04-29 05:04:53 --> Invalid file: {0}
+#0 C:\Users\davidkazad\PhpstormProjects\ID23Pay\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index2.php')
+#1 C:\Users\davidkazad\PhpstormProjects\ID23Pay\system\Common.php(1071): CodeIgniter\View\View->render('index2', Array, true)
+#2 C:\Users\davidkazad\PhpstormProjects\ID23Pay\app\Controllers\Home.php(8): view('index2')
+#3 C:\Users\davidkazad\PhpstormProjects\ID23Pay\system\CodeIgniter.php(910): App\Controllers\Home->index()
+#4 C:\Users\davidkazad\PhpstormProjects\ID23Pay\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Users\davidkazad\PhpstormProjects\ID23Pay\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\davidkazad\PhpstormProjects\ID23Pay\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\davidkazad\PhpstormProjects\ID23Pay\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\davidk...')
+#8 {main}
+CRITICAL - 2020-04-29 05:05:07 --> Invalid file: {0}
+#0 C:\Users\davidkazad\PhpstormProjects\ID23Pay\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index2.php')
+#1 C:\Users\davidkazad\PhpstormProjects\ID23Pay\system\Common.php(1071): CodeIgniter\View\View->render('index2', Array, true)
+#2 C:\Users\davidkazad\PhpstormProjects\ID23Pay\app\Controllers\Home.php(8): view('index2')
+#3 C:\Users\davidkazad\PhpstormProjects\ID23Pay\system\CodeIgniter.php(910): App\Controllers\Home->index()
+#4 C:\Users\davidkazad\PhpstormProjects\ID23Pay\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Users\davidkazad\PhpstormProjects\ID23Pay\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\davidkazad\PhpstormProjects\ID23Pay\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\davidkazad\PhpstormProjects\ID23Pay\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\davidk...')
+#8 {main}
+CRITICAL - 2020-04-29 05:05:28 --> Invalid file: {0}
+#0 C:\Users\davidkazad\PhpstormProjects\ID23Pay\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index2.php')
+#1 C:\Users\davidkazad\PhpstormProjects\ID23Pay\system\Common.php(1071): CodeIgniter\View\View->render('index2', Array, true)
+#2 C:\Users\davidkazad\PhpstormProjects\ID23Pay\app\Controllers\Home.php(8): view('index2')
+#3 C:\Users\davidkazad\PhpstormProjects\ID23Pay\system\CodeIgniter.php(910): App\Controllers\Home->index()
+#4 C:\Users\davidkazad\PhpstormProjects\ID23Pay\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Users\davidkazad\PhpstormProjects\ID23Pay\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\davidkazad\PhpstormProjects\ID23Pay\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\davidkazad\PhpstormProjects\ID23Pay\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\davidk...')
+#8 {main}
+CRITICAL - 2020-04-29 05:06:02 --> Invalid file: {0}
+#0 C:\Users\davidkazad\PhpstormProjects\ID23Pay\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index2.php')
+#1 C:\Users\davidkazad\PhpstormProjects\ID23Pay\system\Common.php(1071): CodeIgniter\View\View->render('index2', Array, true)
+#2 C:\Users\davidkazad\PhpstormProjects\ID23Pay\app\Controllers\Home.php(8): view('index2')
+#3 C:\Users\davidkazad\PhpstormProjects\ID23Pay\system\CodeIgniter.php(910): App\Controllers\Home->index()
+#4 C:\Users\davidkazad\PhpstormProjects\ID23Pay\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Users\davidkazad\PhpstormProjects\ID23Pay\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\davidkazad\PhpstormProjects\ID23Pay\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\davidkazad\PhpstormProjects\ID23Pay\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\davidk...')
+#8 {main}
+CRITICAL - 2020-04-29 05:14:29 --> Invalid file: {0}
+#0 C:\Users\davidkazad\PhpstormProjects\ID23Pay\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index2.php')
+#1 C:\Users\davidkazad\PhpstormProjects\ID23Pay\system\Common.php(1071): CodeIgniter\View\View->render('index2', Array, true)
+#2 C:\Users\davidkazad\PhpstormProjects\ID23Pay\app\Controllers\Home.php(8): view('index2')
+#3 C:\Users\davidkazad\PhpstormProjects\ID23Pay\system\CodeIgniter.php(910): App\Controllers\Home->index()
+#4 C:\Users\davidkazad\PhpstormProjects\ID23Pay\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Users\davidkazad\PhpstormProjects\ID23Pay\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\davidkazad\PhpstormProjects\ID23Pay\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\davidkazad\PhpstormProjects\ID23Pay\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\davidk...')
+#8 {main}
+CRITICAL - 2020-04-29 05:19:28 --> Invalid file: {0}
+#0 C:\Users\davidkazad\PhpstormProjects\ID23Pay\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index2.php')
+#1 C:\Users\davidkazad\PhpstormProjects\ID23Pay\system\Common.php(1071): CodeIgniter\View\View->render('index2', Array, true)
+#2 C:\Users\davidkazad\PhpstormProjects\ID23Pay\app\Controllers\Home.php(8): view('index2')
+#3 C:\Users\davidkazad\PhpstormProjects\ID23Pay\system\CodeIgniter.php(910): App\Controllers\Home->index()
+#4 C:\Users\davidkazad\PhpstormProjects\ID23Pay\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Users\davidkazad\PhpstormProjects\ID23Pay\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\davidkazad\PhpstormProjects\ID23Pay\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\davidkazad\PhpstormProjects\ID23Pay\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\davidk...')
+#8 {main}
+CRITICAL - 2020-04-29 05:27:12 --> Invalid file: {0}
+#0 C:\Users\davidkazad\PhpstormProjects\ID23Pay\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index2.php')
+#1 C:\Users\davidkazad\PhpstormProjects\ID23Pay\system\Common.php(1071): CodeIgniter\View\View->render('index2', Array, true)
+#2 C:\Users\davidkazad\PhpstormProjects\ID23Pay\app\Controllers\Home.php(8): view('index2')
+#3 C:\Users\davidkazad\PhpstormProjects\ID23Pay\system\CodeIgniter.php(910): App\Controllers\Home->index()
+#4 C:\Users\davidkazad\PhpstormProjects\ID23Pay\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Users\davidkazad\PhpstormProjects\ID23Pay\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\davidkazad\PhpstormProjects\ID23Pay\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\davidkazad\PhpstormProjects\ID23Pay\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\davidk...')
+#8 {main}
+CRITICAL - 2020-04-29 17:24:50 --> Invalid file: {0}
+#0 C:\Users\davidkazad\PhpstormProjects\ID23Pay\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index2.php')
+#1 C:\Users\davidkazad\PhpstormProjects\ID23Pay\system\Common.php(1071): CodeIgniter\View\View->render('index2', Array, true)
+#2 C:\Users\davidkazad\PhpstormProjects\ID23Pay\app\Controllers\Home.php(8): view('index2')
+#3 C:\Users\davidkazad\PhpstormProjects\ID23Pay\system\CodeIgniter.php(910): App\Controllers\Home->index()
+#4 C:\Users\davidkazad\PhpstormProjects\ID23Pay\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Users\davidkazad\PhpstormProjects\ID23Pay\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\davidkazad\PhpstormProjects\ID23Pay\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\davidkazad\PhpstormProjects\ID23Pay\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\davidk...')
+#8 {main}
+CRITICAL - 2020-04-29 17:24:51 --> Invalid file: {0}
+#0 C:\Users\davidkazad\PhpstormProjects\ID23Pay\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index2.php')
+#1 C:\Users\davidkazad\PhpstormProjects\ID23Pay\system\Common.php(1071): CodeIgniter\View\View->render('index2', Array, true)
+#2 C:\Users\davidkazad\PhpstormProjects\ID23Pay\app\Controllers\Home.php(8): view('index2')
+#3 C:\Users\davidkazad\PhpstormProjects\ID23Pay\system\CodeIgniter.php(910): App\Controllers\Home->index()
+#4 C:\Users\davidkazad\PhpstormProjects\ID23Pay\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Users\davidkazad\PhpstormProjects\ID23Pay\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\davidkazad\PhpstormProjects\ID23Pay\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\davidkazad\PhpstormProjects\ID23Pay\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\davidk...')
+#8 {main}
