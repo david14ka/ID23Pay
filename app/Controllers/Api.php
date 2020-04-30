@@ -11,15 +11,7 @@ class Api extends BaseController
     public $client;
 
     public function index(){
-
-        if ($this->validation())
-        {
-            //echo $this->clientApiKey;
-            $this->auth();
-            //echo $this->client->
-            //var_dump($this->client);
-        }
-
+        echo 'api working';
     }
 
     public function auth(){
