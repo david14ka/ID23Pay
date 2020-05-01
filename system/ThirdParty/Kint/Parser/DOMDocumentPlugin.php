@@ -166,7 +166,7 @@ class DOMDocumentPlugin extends Plugin
     {
         // Fill the properties
         // They can't be enumerated through reflection or casting,
-        // so we have to trust the docs and try them one at a time
+        // so we have to trust the documentation and try them one at a time
         $known_properties = array(
             'nodeValue',
             'childNodes',

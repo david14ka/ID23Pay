@@ -1,19 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
     
-<!-- Mirrored from themes.startbootstrap.com/sb-ui-kit-pro/landing-multipurpose.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 14 Apr 2020 12:37:02 GMT -->
 <head>
         <meta charset="utf-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content />
         <meta name="author" content />
-        <title>Multipurpose - SB Admin Pro</title>
-        <link href="css/styles.css" rel="stylesheet" />
-        <link rel="stylesheet" href="../../unpkg.com/aos%403.0.0-beta.6/dist/aos.css" />
-        <link rel="icon" type="image/x-icon" href="assets/img/favicon.png" />
-        <script data-search-pseudo-elements defer src="../../cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/js/all.min.js" crossorigin="anonymous"></script>
-        <script src="../../cdnjs.cloudflare.com/ajax/libs/feather-icons/4.24.1/feather.min.js" crossorigin="anonymous"></script>
+        <title>Home - ID23Pay </title>
+        <link href="<?php echo base_url('css/styles.css'); ?>" rel="stylesheet" />
+        <link rel="stylesheet" href="https://unpkg.com/aos%403.0.0-beta.6/dist/aos.css" />
+        <link rel="icon" type="image/x-icon" href="<?php echo base_url('assets/img/favicon.png'); ?>" />
+        <script data-search-pseudo-elements defer src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/js/all.min.js" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/feather-icons/4.24.1/feather.min.js" crossorigin="anonymous"></script>
     </head>
     <body>
         <div id="layoutDefault">
@@ -68,7 +67,7 @@
                                             <div class="row no-gutters">
                                                 <div class="col-lg-6 p-lg-5">
                                                     <h6 class="dropdown-header text-primary">Company</h6>
-                                                    <a class="dropdown-item" href="page-basic.html">Basic Page</a><a class="dropdown-item" href="page-company-about.html">About</a><a class="dropdown-item" href="page-company-pricing.html">Pricing</a><a class="dropdown-item" href="page-company-contact.html">Contact</a><a class="dropdown-item" href="page-company-terms.html">Terms</a>
+                                                    <a class="dropdown-item" href="page-basic.html">Basic Page</a><a class="dropdown-item" href="page-company-about.php">About</a><a class="dropdown-item" href="page-company-pricing.html">Pricing</a><a class="dropdown-item" href="page-company-contact.html">Contact</a><a class="dropdown-item" href="page-company-terms.html">Terms</a>
                                                     <div class="dropdown-divider border-0"></div>
                                                     <h6 class="dropdown-header text-primary">Support</h6>
                                                     <a class="dropdown-item" href="page-help-center.html">Help Center</a><a class="dropdown-item" href="page-help-knowledgebase.html">Knowledgebase</a><a class="dropdown-item" href="page-help-message-center.html">Message Center</a><a class="dropdown-item" href="page-help-support-ticket.html">Support Ticket</a>
@@ -103,20 +102,19 @@
                                                 <div>
                                                     <div class="small text-gray-500">Components</div>
                                                     Code snippets and reference
-                                                </div></a
-                                            >
+                                                </div></a>
                                             <div class="dropdown-divider m-0"></div>
-                                            <a class="dropdown-item py-3" href="https://docs.startbootstrap.com/sb-ui-kit-pro/changelog" target="_blank"
+                                            <a class="dropdown-item py-3" href="<?php echo base_url('documentation/changelog')?>" target="_blank"
                                                 ><div class="icon-stack bg-primary-soft text-primary mr-4"><i class="fas fa-file"></i></div>
                                                 <div>
                                                     <div class="small text-gray-500">Changelog</div>
                                                     Updates and changes
-                                                </div></a
-                                            >
+                                                </div>
+                                            </a>
                                         </div>
                                     </li>
                                 </ul>
-                                <a class="btn-teal btn rounded-pill px-4 ml-lg-4" href="https://shop.startbootstrap.com/sb-ui-kit-pro">Telecharger<i class="fas fa-arrow-right ml-1"></i></a>
+                                <a class="btn-teal btn rounded-pill px-4 ml-lg-4" href="<?php echo base_url('developer')?>">Dashboard<i class="fas fa-arrow-right ml-1"></i></a>
                             </div>
                         </div>
                     </nav>
@@ -165,7 +163,7 @@
                         <div class="container">
                             <div class="row align-items-center justify-content-center">
                                 <div class="col-md-9 col-lg-6 order-1 order-lg-0" data-aos="fade-right">
-                                    <div class="content-skewed content-skewed-right"><img class="content-skewed-item img-fluid shadow-lg rounded-lg" src="assets/img/screenshots/landing-portfolio.jpg" /></div>
+                                    <div class="content-skewed content-skewed-right"><img class="content-skewed-item img-fluid shadow-lg rounded-lg" src="assets/img/screenshots/landing-checkout.png" /></div>
                                 </div>
                                 <div class="col-lg-6 order-0 order-lg-1 mb-5 mb-lg-0" data-aos="fade-left">
                                     <div class="mb-5">
@@ -181,7 +179,7 @@
                                         <div class="col-md-6 mb-4">
                                             <h6>Page Examples</h6>
                                             <p class="mb-2 small mb-0">Use our pre-built page examples to quickly create inner pages to your website.</p>
-                                            <a class="small text-arrow-icon" href="#!">Learn More<i data-feather="arrow-right"></i></a>
+                                            <a class="small text-arrow-icon" href="#!">Learn More<i data-feather="arrow-right"></i></a>s
                                         </div>
                                     </div>
                                     <div class="row">
@@ -496,10 +494,10 @@
                 </footer>
             </div>
         </div>
-        <script src="../../code.jquery.com/jquery-3.4.1.min.js" crossorigin="anonymous"></script>
-        <script src="../../stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
-        <script src="js/scripts.js"></script>
-        <script src="../../unpkg.com/aos%403.0.0-beta.6/dist/aos.js"></script>
+        <script src="https://code.jquery.com/jquery-3.4.1.min.js" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
+        <script src="<?php echo base_url('js/scripts.js'); ?>"></script>
+        <script src="https://unpkg.com/aos%403.0.0-beta.6/dist/aos.js"></script>
         <script>
             AOS.init({
                 disable: 'mobile',
@@ -508,9 +506,7 @@
             });
         </script>
 
-        <script src="js/sb-customizer.js"></script>
+        <script src="<?php echo base_url('js/sb-customizer.js'); ?>"></script>
         <sb-customizer project="sb-ui-kit-pro"></sb-customizer>
     </body>
-
-<!-- Mirrored from themes.startbootstrap.com/sb-ui-kit-pro/landing-multipurpose.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 14 Apr 2020 12:37:02 GMT -->
 </html>

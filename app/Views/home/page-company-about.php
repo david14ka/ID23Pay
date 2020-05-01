@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     
-<!-- Mirrored from themes.startbootstrap.com/sb-ui-kit-pro/page-company-about.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 14 Apr 2020 12:37:05 GMT -->
+<!-- Mirrored from themes.startbootstrap.com/sb-ui-kit-pro/page-company-about.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 14 Apr 2020 12:37:05 GMT -->
 <head>
         <meta charset="utf-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -67,7 +67,7 @@
                                             <div class="row no-gutters">
                                                 <div class="col-lg-6 p-lg-5">
                                                     <h6 class="dropdown-header text-primary">Company</h6>
-                                                    <a class="dropdown-item" href="page-basic.html">Basic Page</a><a class="dropdown-item" href="page-company-about.html">About</a><a class="dropdown-item" href="page-company-pricing.html">Pricing</a><a class="dropdown-item" href="page-company-contact.html">Contact</a><a class="dropdown-item" href="page-company-terms.html">Terms</a>
+                                                    <a class="dropdown-item" href="page-basic.html">Basic Page</a><a class="dropdown-item" href="page-company-about.php">About</a><a class="dropdown-item" href="page-company-pricing.html">Pricing</a><a class="dropdown-item" href="page-company-contact.html">Contact</a><a class="dropdown-item" href="page-company-terms.html">Terms</a>
                                                     <div class="dropdown-divider border-0"></div>
                                                     <h6 class="dropdown-header text-primary">Support</h6>
                                                     <a class="dropdown-item" href="page-help-center.html">Help Center</a><a class="dropdown-item" href="page-help-knowledgebase.html">Knowledgebase</a><a class="dropdown-item" href="page-help-message-center.html">Message Center</a><a class="dropdown-item" href="page-help-support-ticket.html">Support Ticket</a>
@@ -264,5 +264,5 @@
         <sb-customizer project="sb-ui-kit-pro"></sb-customizer>
     </body>
 
-<!-- Mirrored from themes.startbootstrap.com/sb-ui-kit-pro/page-company-about.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 14 Apr 2020 12:37:05 GMT -->
+<!-- Mirrored from themes.startbootstrap.com/sb-ui-kit-pro/page-company-about.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 14 Apr 2020 12:37:05 GMT -->
 </html>

@@ -3,6 +3,6 @@
 class Checkout extends BaseController
 {
     public function index(){
-        return view('checkout_view');
+        return view('checkout\checkout_view');
     }
 }

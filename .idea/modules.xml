@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<< HEAD
-      <module fileurl="file://$PROJECT_DIR$/.idea/id23pay.iml" filepath="$PROJECT_DIR$/.idea/id23pay.iml" />
-=======
       <module fileurl="file://$PROJECT_DIR$/.idea/ID23Pay.iml" filepath="$PROJECT_DIR$/.idea/ID23Pay.iml" />
->>>>>>> remotes/github/master
     </modules>
   </component>
 </project>

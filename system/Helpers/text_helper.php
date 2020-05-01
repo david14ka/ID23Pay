@@ -792,7 +792,7 @@ if (! function_exists('alternator'))
 	/**
 	 * Alternator
 	 *
-	 * Allows strings to be alternated. See docs...
+	 * Allows strings to be alternated. See documentation...
 	 *
 	 * @param string (as many parameters as needed)
 	 *
